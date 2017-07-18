@@ -1,0 +1,25 @@
+:source-highlighter: highlightjs
+
+= Python学習サイト
+学んだことを書き残す個人サイト。https://docs.python.jp/
+//:author: ytyaru
+//:email: aaa@mail.addr
+
+. link:./env/index.html[環境構築]
+. link:./3/tutorial/index.html[チュートリアル]
+. link:./3/library/index.html[ライブラリーリファレンス]
+. link:./3/reference/index.html[言語リファレンス]
+. link:./3/howto/index.html[HowTo]
+. link:./whatsnew/3.6.html[Python3.6の新機能]
+
+* 他
+** link:./3/using/index.html[Python のセットアップと利用]
+** link:./3/installing/index.html[Python モジュールのインストール]
+** link:./3/distributing/index.html[Python モジュールの配布]
+** link:./3/extending/index.html[拡張と埋め込み]
+** link:./3/c-api/index.html[Python/C API]
+** link:./3/faq/index.html[FAQ]
+
+[一覧][New] ... +
+進捗率: ???% ????/????
+

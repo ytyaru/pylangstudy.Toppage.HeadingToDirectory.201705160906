@@ -1,0 +1,57 @@
+:source-highlighter: highlightjs
+
+= ReadMe
+
+== このソフトウェアについて
+
+Pythonドキュメントの見出しからトップページとディレクトリ構造を仮作成した。
+
+以下を結合させたものである。
+
+* pylangstudy.Prototype.Toppage.201705151431
+* pylangstudy.HeadingToDirectory.201705160717
+
+== 開発環境
+
+* LinuxMint 17.3 MATE 32bit
+** http://ytyaru.hatenablog.com/entry/2017/05/30/000000[rbenv]
+*** Ruby 2.4.0
+**** http://ytyaru.hatenablog.com/entry/2017/06/20/000000[AsciiDoctor]
+** Firefox
+*** http://ytyaru.hatenablog.com/entry/2017/06/19/000000[AsciiDoc ビューア]
+** pluma
+*** http://ytyaru.hatenablog.com/entry/2017/06/18/000000[AsciiDoc ハイライト]
+
+== 参考
+
+* http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#ui-macros
+
+== 実行
+
+[source, sh]
+----
+bash run.sh
+----
+
+== 結果
+
+* `index.html` `index_table.html` ファイルが出力される
+
+== ライセンス
+
+このソフトウェアはCC0ライセンスである。
+
+image:http://i.creativecommons.org/p/zero/1.0/88x31.png[link=http://creativecommons.org/publicdomain/zero/1.0/deed.ja]
+
+利用したソフトウェアとそのライセンスは以下。感謝。
+
+[options="header, autowidth"]
+|=======================
+|Library|License|Copyright
+|http://asciidoctor.org/[AsciiDoctor]|https://github.com/asciidoctor/asciidoctor/blob/master/LICENSE.adoc[MIT]|Copyright (C) 2012-2016 Dan Allen, Ryan Waldron and the Asciidoctor Project
+|https://highlightjs.org/[highlight.js]|https://github.com/isagalaev/highlight.js/blob/master/LICENSE[BSD 3-clause]|Copyright (c) 2006, Ivan Sagalaev
+http://requests-docs-ja.readthedocs.io/en/latest/[requests]|https://opensource.org/licenses/Apache-2.0[Apache-2.0]|http://requests-docs-ja.readthedocs.io/en/latest/user/intro/#requests[Copyright 2012 Kenneth Reitz]
+https://dataset.readthedocs.io/en/latest/[dataset]|https://opensource.org/licenses/MIT[MIT]|https://github.com/pudo/dataset/blob/master/LICENSE.txt[Copyright (c) 2013, Open Knowledge Foundation, Friedrich Lindenberg, Gregor Aisch]
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/[bs4]|https://opensource.org/licenses/MIT[MIT]|https://pypi.python.org/pypi/beautifulsoup4[Copyright © 1996-2011 Leonard Richardson],http://tdoc.info/beautifulsoup/[参考]
+|=======================
+

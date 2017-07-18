@@ -1,0 +1,59 @@
+:source-highlighter: highlightjs
+
+= Python学習サイト
+
+== 横+縦
+
+=== メイン
+
+[%autowidth, grid=none, frame=none]
+|====
+.2+.^|1. link:./env/index.html[環境構築]|2. link:./3/tutorial/index.html[チュートリアル]|4. link:./3/library/index.html[Libraryリファレンス] .2+.^|6. link:./whatsnew/3.6.html[Python3.6の新機能]
+|3. link:./3/reference/index.html[言語リファレンス]|5. link:./3/howto/index.html[HowTo]
+|====
+
+==== サブ
+
+[%autowidth]
+|====
+.2+.^|link:./3/using/index.html[Pythonのセットアップと利用]|link:./3/installing/index.html[Pythonモジュールのインストール]|link:./3/extending/index.html[拡張と埋め込み] .2+.^|link:./3/faq/index.html[FAQ]
+|link:./3/distributing/index.html[Pythonモジュールの配布]|link:./3/c-api/index.html[Python/C API]
+|====
+
+=== 進捗
+
+[一覧][New] ... +
+進捗率: ???% ????/????
+
+== 縦→横
+
+=== メイン
+
+[%autowidth]
+|====
+2+^|1. link:./env/index.html[環境構築]
+|2. link:./3/tutorial/index.html[チュートリアル]|4. link:./3/library/index.html[Libraryリファレンス]
+|3. link:./3/reference/index.html[言語リファレンス]|5. link:./3/howto/index.html[HowTo]
+2+^|6. link:./whatsnew/3.6.html[Python3.6の新機能]
+|====
+
+==== サブ
+
+[%autowidth]
+|====
+2+^|link:./3/using/index.html[Pythonのセットアップと利用]
+|link:./3/installing/index.html[Pythonモジュールのインストール]|link:./3/extending/index.html[拡張と埋め込み]
+|link:./3/distributing/index.html[Pythonモジュールの配布]|link:./3/c-api/index.html[Python/C API]
+2+^|link:./3/faq/index.html[FAQ]
+|====
+
+=== 進捗
+
+[一覧][New] ... +
+進捗率: ???% ????/????
+
+== 参考
+
+* http://www.methods.co.nz/asciidoc/newtables.html
+* http://asciidoctor.cn/docs/user-manual/#table-borders
+
